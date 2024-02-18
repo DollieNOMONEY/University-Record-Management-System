@@ -1,0 +1,15 @@
+﻿  main.cpp
+E:\This PC\Programming\Projects C++\University Record Management System\Redo\University Record Management System\main\main\Undergraduate.cpp(33,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\This PC\Programming\Projects C++\University Record Management System\Redo\University Record Management System\main\main\RecordManagement.cpp(124,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\This PC\Programming\Projects C++\University Record Management System\Redo\University Record Management System\main\main\RecordManagement.cpp(145,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\This PC\Programming\Projects C++\University Record Management System\Redo\University Record Management System\main\main\Application.cpp(62,11): warning C4129: 'A': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+E:\This PC\Programming\Projects C++\University Record Management System\Redo\University Record Management System\main\main\Account.cpp(95): warning C4715: 'AdminAccount::userRegister': not all control paths return a value
+  main.vcxproj -> E:\This PC\Programming\Projects C++\University Record Management System\Redo\University Record Management System\main\x64\Debug\main.exe
